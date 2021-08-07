@@ -1,0 +1,7 @@
+torch
+torchvision
+torchaudio
+transformers
+datasets[s3]
+sagemaker
+jupyterlab
